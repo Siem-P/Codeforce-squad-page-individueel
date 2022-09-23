@@ -16,4 +16,5 @@ https://codeforce.student.fdnd.nl/
 
 ## Bronnen
 Deze website en de inspiratie voor het carroussel idee is voortgekomen uit de workshop CSS Trick met Sanne 't Hooft.
+
 http://sinds1971.nl/ & http://sinds1971.nl/bj3/index.html
