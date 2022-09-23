@@ -13,3 +13,7 @@ Dit is de repository van de squadpage. Voor het maken van deze squadpage is gebr
 De live versie van dit project kunt u hieronder vinden:
 
 https://codeforce.student.fdnd.nl/
+
+## Bronnen
+Deze website en de inspiratie voor het carroussel idee is voortgekomen uit de workshop CSS Trick met Sanne 't Hooft.
+http://sinds1971.nl/ & http://sinds1971.nl/bj3/index.html
